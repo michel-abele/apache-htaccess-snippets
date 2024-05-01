@@ -1,6 +1,10 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/michel-abele/apache-conf-snippets?style=for-the-badge)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/michel-abele/apache-htaccess-snippets/main?logo=github&label=last%20commit%3A%20main)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/michel-abele/apache-htaccess-snippets/work?logo=github&label=last%20commit%3A%20work)
 
-# Apache configuration snippets
-Snippets for the configuration files of Apache HTTP Server (htaccess).
+# Apache htaccess snippets
 
-![Static Badge](https://img.shields.io/badge/2.4-logo?style=for-the-badge&logo=Apache&logoColor=%23ffffff&label=Apache&color=%23D22128)
+![Static Badge](https://img.shields.io/badge/2.4-logo?logo=Apache&logoColor=%23ffffff&label=Apache%20HTTP%20Server&color=%23D22128)
+
+:gb:|:us: This repository contains various configuration snippets for the htaccess files of the Apache HTTP server.
+
+:de: Dieses Repository enthält verschiedene Konfigurationsschnipsel für die htaccess-Dateien des Apache HTTP Servers.
